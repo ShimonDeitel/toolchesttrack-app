@@ -1,0 +1,40 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Tool Chest Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited tools and value-history notes",
+              "displayName": "Tool Chest Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.toolchest.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Tool Chest Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
